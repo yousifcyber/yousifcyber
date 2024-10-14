@@ -1,4 +1,5 @@
-<h1>Hi, I'm Yousuf! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Yousuf a highly motivated and results-driven individual, specializing in Cybersecurity. With a strong foundation in technology and a keen interest in cybersecurity, I am constantly exploring new challenges and seeking opportunities to expand my knowledge and expertise. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. 
+ <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
